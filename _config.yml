@@ -1,11 +1,11 @@
 # Site settings
 author: Mikael Kaya
-title: 
+title: Kaya the Writer and Coder
 header-img: img/home-bg.png
 email: kayaswork@gmail.com
 copyright_name: Mikael Kaya
 description: > # this means to ignore newlines until "baseurl:"
-  
+  With a love for writing, copywriting, & coding.. imagine the websites.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  kayathewriter
